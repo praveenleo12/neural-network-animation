@@ -12,3 +12,5 @@ To run the program use the command "python main.py". It will generate a mp4 file
 You can read more about it and watch the video here:
 https://medium.com/@miloharper/how-to-generate-a-video-of-a-neural-network-learning-in-python-62f5c520e85c
 
+Hi Praveen
+
